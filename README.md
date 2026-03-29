@@ -48,12 +48,11 @@ This repository contains a **Machine Learning project** for predicting customer 
 
 ---
 
-## **Results**
+## 📊 Model Performance
 
-- Tuned model achieved improved **accuracy and ROC-AUC** compared to default parameters.  
-- Top contributing features include:  
-  - `Contract`, `tenure`, `MonthlyCharges`, `TotalCharges`, `TechSupport`  
-
+- **Accuracy:** 0.8464  
+- **F1 Score:** 0.8497  
+- **ROC-AUC:** 0.9294  
 ---
 
 ## **Usage**
